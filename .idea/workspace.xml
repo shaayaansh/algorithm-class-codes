@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5e14a07-62e7-44a0-bee3-204a7c31afeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5e14a07-62e7-44a0-bee3-204a7c31afeb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ROD_Cut_DP.py">
+        <entry file="file://$PROJECT_DIR$/Knapsack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -42,6 +40,7 @@
         <option value="$PROJECT_DIR$/Quick_Sort.py" />
         <option value="$PROJECT_DIR$/order_statistic.py" />
         <option value="$PROJECT_DIR$/ROD_Cut_DP.py" />
+        <option value="$PROJECT_DIR$/Knapsack.py" />
       </list>
     </option>
   </component>
@@ -83,8 +82,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ROD_Cut_DP">
-    <configuration name="Maximum_subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Knapsack">
+    <configuration name="Knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-class-codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum_subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Knapsack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Knapsack" />
         <item itemvalue="Python.ROD_Cut_DP" />
         <item itemvalue="Python.order_statistic" />
         <item itemvalue="Python.Quick_Sort" />
         <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.Maximum_subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -272,8 +271,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ROD_Cut_DP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knapsack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
